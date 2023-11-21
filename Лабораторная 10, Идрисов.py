@@ -1,7 +1,7 @@
 import random
 import logging
 
-logging.basicConfig(filename='lub_10.log', level=logging.DEBUG)
+logging.basicConfig(filename='lub_10.log', level=logging.DEBUG, format='%(asctime)s %(levelname)s %(message)s')
 
 print('Игра началась')
 logging.debug('Программа запущена')
@@ -35,6 +35,7 @@ while True:
 print('')
 
 the_secret_of_the_computer = random.randint(1, N)
+logging.info('Загаданное компьютером число - ' + str(the_secret_of_the_computer))
 
 i = 0
 while i < k:
