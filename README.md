@@ -9,7 +9,7 @@ PyCharm, Python
 
 # Тесты
 Тест для N = 7, k = 3
-![1--](https://github.com/ilnarisrisov/lub_10/assets/146421910/694895c4-025a-4e24-b2f9-a1100d610247)
+![3--](https://github.com/ilnarisrisov/lub_10/assets/146421910/30958071-12a7-4578-9a1d-c588ab1f20ed)
 
 Тест для N = 10, k = 5
-![2--](https://github.com/ilnarisrisov/lub_10/assets/146421910/11864e68-774d-4a06-87d6-0dd6ced02902)
+![4--](https://github.com/ilnarisrisov/lub_10/assets/146421910/b46bd4a1-c5d2-444f-a795-b53ff5aff674)
