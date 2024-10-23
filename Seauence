@@ -1,0 +1,13 @@
+# Последовательность
+
+1. Запустить wsl
+2. Ввести следующие команды:
+git clone https://github.com/ilnarisrisov/lub_10.git
+pwd
+mkdir myproject
+cd myproject
+nano game.py
+3. Вставить в открывшееся окно код из файла
+4. Ввести команду:
+python3 game.py
+5. Вводить числа
